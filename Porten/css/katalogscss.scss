@@ -1,0 +1,149 @@
+@mixin dispflex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@mixin per100 {
+    width: 100%;
+    height: 100%;
+}
+@mixin bgcover {
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
+
+$font-stack: 'PT Sans', sans-serif;
+$regular: 400;
+$small: 12px;
+$medium: 14px;
+$big: 16px;
+
+
+* {
+    margin: 0;
+}
+html {
+    scroll-behavior: smooth; 
+  }
+body {
+    font-family: $font-stack;
+    font-weight: $regular;
+    background-color: #000000;
+    display: flex;
+    flex-direction: column;
+}
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: #0f0f0f;
+    height: 50px;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+nav > div:hover {
+    background-color: #1f1f1f;
+}
+nav > div {
+    height: 50px;
+    width: 100%;
+    @include dispflex;
+}
+nav > div:hover .brand {
+    color: white;
+}
+.brand {
+    @include per100;
+    @include dispflex;
+    color: grey;
+    text-decoration: none;
+}
+.hr {
+    width: 100%;
+    height: 1.5px;
+    background-color: #FFFFFF;
+}
+.hr1 {
+    position: sticky;
+    top: 50px;
+    z-index: 1;
+}
+
+/* section */
+
+.name {
+    font-family: "Playfair Display";
+    font-size: 36px;
+    color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.watches {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    @include per100;
+    margin-bottom: 30px;
+    flex-wrap: wrap;
+}
+.watch {
+    display: flex;
+    flex-direction: column;
+    height: 405px;
+    width: 260px;
+    justify-content: space-evenly;
+}
+.basketover {
+    margin-top: -55px;
+    width: 263px;
+    height: 325px;
+    background-color: #FFFFFF;
+    opacity: 0;
+    position: absolute;
+    @include dispflex;
+    z-index: 1;
+}
+.bx {
+    width: 75px;
+    height: 75px;
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    align-self: center;
+    margin-top: -25px;
+}
+.watch:hover .basketover{
+    opacity: 0.05;
+    transition: 0.5s;
+}
+.watch:hover .bx {
+    opacity: 0.75;
+    transition: 0.5s;
+    z-index: 1;
+}
+.watch:hover .img-watch img {
+    filter: blur(2px);
+    transition: 0.5s;
+}
+.img-watch {
+    width: 260px;
+    height: 325px;
+    background-color: #191B1C;
+    border: 2px black solid;
+    @include dispflex;
+}
+.louis {
+    font-family: "Playfair Display";
+    color: white;
+    font-size: 18px;
+    margin-left: 2px;
+}
+.cost {
+    font-family: "Playfair Display";
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 2px;
+}

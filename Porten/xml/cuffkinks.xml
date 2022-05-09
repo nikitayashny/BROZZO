@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cufflinks>  
+    <brands>
+        <brand name="Versace" count="6">
+            <cufflink name="Versace 1" price="165000"></cufflink>
+            <cufflink name="Versace 2" price="165000"></cufflink>
+            <cufflink name="Versace 3" price="165000"></cufflink>
+            <cufflink name="Versace 4" price="165000"></cufflink>
+            <cufflink name="Versace 5" price="165000"></cufflink>
+            <cufflink name="Versace 6" price="165000"></cufflink>
+        </brand>
+        <brand name="Damiani" count="6">
+            <cufflink name="Damiani 1" price="165000"></cufflink>
+            <cufflink name="Damiani 2" price="165000"></cufflink>
+            <cufflink name="Damiani 3" price="165000"></cufflink>
+            <cufflink name="Damiani 4" price="165000"></cufflink>
+            <cufflink name="Damiani 5" price="165000"></cufflink>
+            <cufflink name="Damiani 6" price="165000"></cufflink>
+        </brand>
+        <brand name="Sokolov" count="6">
+            <cufflink name="Sokolov 1" price="165000"></cufflink>
+            <cufflink name="Sokolov 2" price="165000"></cufflink>
+            <cufflink name="Sokolov 3" price="165000"></cufflink>
+            <cufflink name="Sokolov 4" price="165000"></cufflink>
+            <cufflink name="Sokolov 5" price="165000"></cufflink>
+            <cufflink name="Sokolov 6" price="165000"></cufflink>
+        </brand>
+        <brand name="Piaget" count="6">
+            <cufflink name="Piaget 1" price="165000"></cufflink>
+            <cufflink name="Piaget 2" price="165000"></cufflink>
+            <cufflink name="Piaget 3" price="165000"></cufflink>
+            <cufflink name="Piaget 4" price="165000"></cufflink>
+            <cufflink name="Piaget 5" price="165000"></cufflink>
+            <cufflink name="Piaget 6" price="165000"></cufflink>
+        </brand>
+        <brand name="Boucheron" count="6">
+            <cufflink name="Boucheron 1" price="165000"></cufflink>
+            <cufflink name="Boucheron 2" price="165000"></cufflink>
+            <cufflink name="Boucheron 3" price="165000"></cufflink>
+            <cufflink name="Boucheron 4" price="165000"></cufflink>
+            <cufflink name="Boucheron 5" price="165000"></cufflink>
+            <cufflink name="Boucheron 6" price="165000"></cufflink>
+        </brand>
+    </brands>
+</cufflinks>
