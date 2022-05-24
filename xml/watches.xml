@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<watches>  
+    <brands>
+        <brand name="Patek Philippe" count="6">
+            <watch name="Patek Philippe 1" price="165000"></watch>
+            <watch name="Patek Philippe 2" price="165000"></watch>
+            <watch name="Patek Philippe 3" price="165000"></watch>
+            <watch name="Patek Philippe 4" price="165000"></watch>
+            <watch name="Patek Philippe 5" price="165000"></watch>
+            <watch name="Patek Philippe 6" price="165000"></watch>
+        </brand>
+        <brand name="Vacheron Constantin" count="6">
+            <watch name="Vacheron Constantin 1" price="165000"></watch>
+            <watch name="Vacheron Constantin 2" price="165000"></watch>
+            <watch name="Vacheron Constantin 3" price="165000"></watch>
+            <watch name="Vacheron Constantin 4" price="165000"></watch>
+            <watch name="Vacheron Constantin 5" price="165000"></watch>
+            <watch name="Vacheron Constantin 6" price="165000"></watch>
+        </brand>
+        <brand name="Jaeger-LeCoultre" count="6">
+            <watch name="Jaeger-LeCoultre 1" price="165000"></watch>
+            <watch name="Jaeger-LeCoultre 2" price="165000"></watch>
+            <watch name="Jaeger-LeCoultre 3" price="165000"></watch>
+            <watch name="Jaeger-LeCoultre 4" price="165000"></watch>
+            <watch name="Jaeger-LeCoultre 5" price="165000"></watch>
+            <watch name="Jaeger-LeCoultre 6" price="165000"></watch>
+        </brand>
+        <brand name="Audemars Piguet" count="6">
+            <watch name="Audemars Piguet 1" price="165000"></watch>
+            <watch name="Audemars Piguet 2" price="165000"></watch>
+            <watch name="Audemars Piguet 3" price="165000"></watch>
+            <watch name="Audemars Piguet 4" price="165000"></watch>
+            <watch name="Audemars Piguet 5" price="165000"></watch>
+            <watch name="Audemars Piguet 6" price="165000"></watch>
+        </brand>
+        <brand name="Grand Seiko" count="6">
+            <watch name="Grand Seiko 1" price="165000"></watch>
+            <watch name="Grand Seiko 2" price="165000"></watch>
+            <watch name="Grand Seiko 3" price="165000"></watch>
+            <watch name="Grand Seiko 4" price="165000"></watch>
+            <watch name="Grand Seiko 5" price="165000"></watch>
+            <watch name="Grand Seiko 6" price="165000"></watch>
+        </brand>
+    </brands>
+</watches>

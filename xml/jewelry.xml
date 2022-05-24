@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<jewelrys>  
+    <brands>
+        <brand name="Versace" count="6">
+            <jewelry name="Versace 1" price="165000"></jewelry>
+            <jewelry name="Versace 2" price="165000"></jewelry>
+            <jewelry name="Versace 3" price="165000"></jewelry>
+            <jewelry name="Versace 4" price="165000"></jewelry>
+            <jewelry name="Versace 5" price="165000"></jewelry>
+            <jewelry name="Versace 6" price="165000"></jewelry>
+        </brand>
+        <brand name="Damiani" count="6">
+            <jewelry name="Damiani 1" price="165000"></jewelry>
+            <jewelry name="Damiani 2" price="165000"></jewelry>
+            <jewelry name="Damiani 3" price="165000"></jewelry>
+            <jewelry name="Damiani 4" price="165000"></jewelry>
+            <jewelry name="Damiani 5" price="165000"></jewelry>
+            <jewelry name="Damiani 6" price="165000"></jewelry>
+        </brand>
+        <brand name="Sokolov" count="6">
+            <jewelry name="Sokolov 1" price="165000"></jewelry>
+            <jewelry name="Sokolov 2" price="165000"></jewelry>
+            <jewelry name="Sokolov 3" price="165000"></jewelry>
+            <jewelry name="Sokolov 4" price="165000"></jewelry>
+            <jewelry name="Sokolov 5" price="165000"></jewelry>
+            <jewelry name="Sokolov 6" price="165000"></jewelry>
+        </brand>
+        <brand name="Piaget" count="6">
+            <jewelry name="Piaget 1" price="165000"></jewelry>
+            <jewelry name="Piaget 2" price="165000"></jewelry>
+            <jewelry name="Piaget 3" price="165000"></jewelry>
+            <jewelry name="Piaget 4" price="165000"></jewelry>
+            <jewelry name="Piaget 5" price="165000"></jewelry>
+            <jewelry name="Piaget 6" price="165000"></jewelry>
+        </brand>
+        <brand name="Boucheron" count="6">
+            <jewelry name="Boucheron 1" price="165000"></jewelry>
+            <jewelry name="Boucheron 2" price="165000"></jewelry>
+            <jewelry name="Boucheron 3" price="165000"></jewelry>
+            <jewelry name="Boucheron 4" price="165000"></jewelry>
+            <jewelry name="Boucheron 5" price="165000"></jewelry>
+            <jewelry name="Boucheron 6" price="165000"></jewelry>
+        </brand>
+    </brands>
+</jewelrys>

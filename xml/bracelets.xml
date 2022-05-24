@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bracelets>  
+    <brands>
+        <brand name="Cartier" count="6">
+            <bracelet name="Cartier 1" price="165000"></bracelet>
+            <bracelet name="Cartier 2" price="165000"></bracelet>
+            <bracelet name="Cartier 3" price="165000"></bracelet>
+            <bracelet name="Cartier 4" price="165000"></bracelet>
+            <bracelet name="Cartier 5" price="165000"></bracelet>
+            <bracelet name="Cartier 6" price="165000"></bracelet>
+        </brand>
+        <brand name="Bvlgari" count="6">
+            <bracelet name="Bvlgari 1" price="165000"></bracelet>
+            <bracelet name="Bvlgari 2" price="165000"></bracelet>
+            <bracelet name="Bvlgari 3" price="165000"></bracelet>
+            <bracelet name="Bvlgari 4" price="165000"></bracelet>
+            <bracelet name="Bvlgari 5" price="165000"></bracelet>
+            <bracelet name="Bvlgari 6" price="165000"></bracelet>
+        </brand>
+        <brand name="Pandora" count="6">
+            <bracelet name="Pandora 1" price="165000"></bracelet>
+            <bracelet name="Pandora 2" price="165000"></bracelet>
+            <bracelet name="Pandora 3" price="165000"></bracelet>
+            <bracelet name="Pandora 4" price="165000"></bracelet>
+            <bracelet name="Pandora 5" price="165000"></bracelet>
+            <bracelet name="Pandora 6" price="165000"></bracelet>
+        </brand>
+        <brand name="Tissot" count="6">
+            <bracelet name="Tissot 1" price="165000"></bracelet>
+            <bracelet name="Tissot 2" price="165000"></bracelet>
+            <bracelet name="Tissot 3" price="165000"></bracelet>
+            <bracelet name="Tissot 4" price="165000"></bracelet>
+            <bracelet name="Tissot 5" price="165000"></bracelet>
+            <bracelet name="Tissot 6" price="165000"></bracelet>
+        </brand>
+        <brand name="Tiffani" count="6">
+            <bracelet name="Tiffani 1" price="165000"></bracelet>
+            <bracelet name="Tiffani 2" price="165000"></bracelet>
+            <bracelet name="Tiffani 3" price="165000"></bracelet>
+            <bracelet name="Tiffani 4" price="165000"></bracelet>
+            <bracelet name="Tiffani 5" price="165000"></bracelet>
+            <bracelet name="Tiffani 6" price="165000"></bracelet>
+        </brand>
+    </brands>
+</bracelets>
